@@ -1,10 +1,4 @@
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
-using Microsoft.AspNetCore.Mvc;
-
-namespace Pathfinder2eCompanion.Models
+namespace Pathfinder2eCompanion.Contract
 {
     public class Character
     {
