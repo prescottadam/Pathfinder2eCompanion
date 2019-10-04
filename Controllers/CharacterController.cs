@@ -16,10 +16,10 @@ namespace Pathfinder2eCompanion.Controllers
             return new OkObjectResult(
                 new Character
                 {
-                    Name = "Sample",
+                    Name = "Sample Name",
                     Strength = 14,
                     Dexterity = 14,
-                    Constituation = 14,
+                    Constitution = 14,
                     Intelligence = 14,
                     Wisdom = 14,
                     Charisma = 14
